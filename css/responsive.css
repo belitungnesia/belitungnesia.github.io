@@ -1,0 +1,45 @@
+@media screen and (max-width : 992px) {
+    #rekomendasi {
+        margin-top: 100px;
+        margin-bottom: 100px;
+    }
+
+    #contact h3 {
+        font-size: 20px;
+        width: 100%;
+    }
+
+    .card-contact {
+        width: 100%;
+        height: auto;
+        padding: 52px 48px;
+        margin-top: 42px;
+    }
+}
+
+@media screen and (max-width : 576px) {
+    h2 {
+        font-size: 25px;
+    }
+
+    .sub-title {
+        font-size: 15px;
+    }
+
+    .card-layanan {
+        margin: 15px 0;
+    }
+
+    #search h2 {
+        font-size: 35px;
+        line-height: 42px;
+    }
+    #search p{
+        font-size: 16px;
+        line-height: 24px;
+    }
+}
+
+@media screen and (max-width : 350px) {
+
+}
